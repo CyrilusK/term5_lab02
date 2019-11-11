@@ -1,0 +1,216 @@
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 1
+		input_data:
+			buffer_size: 128mb
+		results:
+			duration: 87ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 1
+		input_data:
+			buffer_size: 128mb
+		results:
+			duration: 90ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 1
+		input_data:
+			buffer_size: 128mb
+		results:
+			duration: 3457ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 2
+		input_data:
+			buffer_size: 256mb
+		results:
+			duration: 186ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 2
+		input_data:
+			buffer_size: 256mb
+		results:
+			duration: 185ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 2
+		input_data:
+			buffer_size: 256mb
+		results:
+			duration: 6601ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 3
+		input_data:
+			buffer_size: 512mb
+		results:
+			duration: 377ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 3
+		input_data:
+			buffer_size: 512mb
+		results:
+			duration: 342ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 3
+		input_data:
+			buffer_size: 512mb
+		results:
+			duration: 12413ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 4
+		input_data:
+			buffer_size: 1024mb
+		results:
+			duration: 703ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 4
+		input_data:
+			buffer_size: 1024mb
+		results:
+			duration: 676ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 4
+		input_data:
+			buffer_size: 1024mb
+		results:
+			duration: 24521ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 5
+		input_data:
+			buffer_size: 2048mb
+		results:
+			duration: 1411ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 5
+		input_data:
+			buffer_size: 2048mb
+		results:
+			duration: 1331ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 5
+		input_data:
+			buffer_size: 2048mb
+		results:
+			duration: 49517ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 6
+		input_data:
+			buffer_size: 4096mb
+		results:
+			duration: 2828ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 6
+		input_data:
+			buffer_size: 4096mb
+		results:
+			duration: 2686ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 6
+		input_data:
+			buffer_size: 4096mb
+		results:
+			duration: 97969ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 7
+		input_data:
+			buffer_size: 8192mb
+		results:
+			duration: 5652ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 7
+		input_data:
+			buffer_size: 8192mb
+		results:
+			duration: 5493ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 7
+		input_data:
+			buffer_size: 8192mb
+		results:
+			duration: 196531ms
+investigation:
+	travel_variant: Straight
+	experiments:
+	- experiment:
+		number: 8
+		input_data:
+			buffer_size: 9216mb
+		results:
+			duration: 6377ms
+investigation:
+	travel_variant: Reverse
+	experiments:
+	- experiment:
+		number: 8
+		input_data:
+			buffer_size: 9216mb
+		results:
+			duration: 6286ms
+investigation:
+	travel_variant: Random
+	experiments:
+	- experiment:
+		number: 8
+		input_data:
+			buffer_size: 9216mb
+		results:
+			duration: 220202ms
