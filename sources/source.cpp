@@ -1,3 +1,7 @@
-// Copyright 2018 Your Name <your_email>
-
-#include <header.hpp>
+#include "detours.hpp"
+int main() {
+  int min = 256, max = 6144;
+  Experiments exps(min, max);
+  exps.action();
+  return 0;
+}
